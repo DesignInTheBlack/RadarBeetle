@@ -4,7 +4,7 @@ Vue 3 Sample Application for Retrieving and Rendering Radar Station Locations
 
 ## Quick Questions:
 
-*Why didn't you use the Composition API?*
+*You know the Composition API would make some of this easier, right? And it's so shiny and cool and abstractions and...*
 
 I prefer the structure afforded by the options API and since this was an example project, I treated it like I would a hobby project, but I'm comfortable with either depending on the requirements of the project. 
 

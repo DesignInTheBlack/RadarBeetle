@@ -1,6 +1,26 @@
 # RadarBeetle
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue Sample Application for Retrieving and Rendering Radar Station Locations
+
+Quick Questions:
+
+*Why didn't you use the Composition API?*
+
+I prefer the structure afforded by the options API and since this was an example project, I treated it like I would a hobby project, but I'm comfortable with either depending on the requirements of the project. 
+
+*I found a bug!*
+
+Fantastic, please let me know what it was! This was an example project and there is a laundry list of things that I would like to improve upon or that remain incomplete. I always welcome feedback!
+
+*I can't get the content to populate from my local in my browser!*
+
+Yep, you'll need a browser extension to support this locally as it isn't production ready!
+
+[Allows Cors] (https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en).
+
+
+
+##Boilerplate From Vite 
 
 ## Recommended IDE Setup
 

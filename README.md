@@ -1,6 +1,6 @@
 # RadarBeetle
 
-Vue Sample Application for Retrieving and Rendering Radar Station Locations
+Vue 3 Sample Application for Retrieving and Rendering Radar Station Locations
 
 Quick Questions:
 

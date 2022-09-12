@@ -2,7 +2,7 @@
 
 Vue 3 Sample Application for Retrieving and Rendering Radar Station Locations
 
-Quick Questions:
+## Quick Questions:
 
 *Why didn't you use the Composition API?*
 

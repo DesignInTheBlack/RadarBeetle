@@ -16,7 +16,7 @@ Fantastic, please let me know what it was! This was an example project and there
 
 Yep, you'll need a browser extension to support this locally as it isn't production ready!
 
-[Allows Cors] (https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en).
+[Allows Cors](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en)
 
 
 
